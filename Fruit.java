@@ -1,5 +1,7 @@
 package lesson_3;
 
+//Фрукты
+
 public class Fruit {
     private float weight;
 
