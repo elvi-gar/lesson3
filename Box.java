@@ -1,6 +1,5 @@
 package lesson_3;
 
-//Коробка
 
 import java.util.ArrayList;
 import java.util.Arrays;
