@@ -1,5 +1,6 @@
 package lesson_3;
 
+//Яблоки
 public class Apple extends Fruit {
 
     Apple() {
